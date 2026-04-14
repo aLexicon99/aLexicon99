@@ -1,8 +1,8 @@
-## 👋 Hey
+## 👋 Hello World 🌎
 
 
 - 🔭 I’m currently focusing on learning new skills 
-- 🌱 I’m currently learning C# .NET / AI  
+- 🌱 Learning C# .NET / AI / Frontend / Backend 
 - 📫 How to reach me: Make a pull request
 - ⚡ Fun fact: The Earth is round
 <!--
